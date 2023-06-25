@@ -1,4 +1,4 @@
-import { ListOfPosts } from "./[id]/ListOfPost";
+import { ListOfPosts } from "./ListOfPost";
 
 export default function PostsPage({ params }) {
   return (
